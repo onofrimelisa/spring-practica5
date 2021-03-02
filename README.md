@@ -1,4 +1,4 @@
-#Obtener Diploma
+# Obtener Diploma
 
 
 ### Práctica Individual
